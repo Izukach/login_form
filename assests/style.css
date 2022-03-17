@@ -1,0 +1,56 @@
+.First {
+  height: 65px;
+  background-color: rgb(235, 250, 242);
+  width: 500px;
+  /* margin-left: 50px; */
+  text-align: center;
+}
+
+#firstNameLabel {
+  display: block;
+}
+
+#secondNameLabel {
+  display: block;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 5px;
+}
+
+.formBody {
+  width: 500px;
+  /* background-color: red; */
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#FirstEmail {
+  display: block;
+  margin-top: 20px;
+}
+
+#firstCompany {
+  display: block;
+  margin-top: 20px;
+}
+
+#address {
+  display: block;
+  margin-top: 20px;
+}
+
+.col {
+  display: flex;
+  /* padding-top: 15px; */
+  justify-content: space-between;
+}
+
+#FN {
+  height: 30px;
+  width: 150px;
+}
